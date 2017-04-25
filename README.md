@@ -88,7 +88,7 @@ Node | Properties |
 
  ### User guide
 
- To access my time tabling database, please first install [Neo4j](https://neo4j.com/) on you machine. Once you have Neo4j, download the [.graphdb]https://github.com/JohnnyGlynn/Neo4j-GraphTheory-GMIT-Timetable file, GMIT-TimeTable.graphdb, located in my repository. Once you have this file, open Neo4j. When Neo4j opens click on Choose, and navigate to where you have saved my .graphdb file. Select the file and press start on the Neo4j command window, The coloured bar at the bottom should be green, if so, navigate to Localhost:7474 in your browser. The database is open and you are ready to start querying.
+ To access my time tabling database, please first install [Neo4j](https://neo4j.com/) on your machine. Once you have Neo4j, download the [.graphdb](https://github.com/JohnnyGlynn/Neo4j-GraphTheory-GMIT-Timetable) file, GMIT-TimeTable.graphdb, located in my repository. Once you have this file, open Neo4j. When Neo4j opens click on Choose, and navigate to where you have saved my .graphdb file. Select the file and press start on the Neo4j command window, The coloured bar at the bottom should be green, if so, navigate to Localhost:7474 in your browser. The database is open and you are ready to start querying.
  
  To start off use this command:
  ```
